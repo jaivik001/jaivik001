@@ -17,7 +17,7 @@ I am **Jaivik Patel**, a Software Engineer specializing in **Node.js, NestJS, Re
 ## 📫 How to Reach Me
 - 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaivik-patel-8520101a1)
 - ✨ Follow me on [GitHub](https://github.com/jaivik001)
-- 💌 Shoot Me an [Email](jaikpatel2001@gmail.com)
+- 💌 Shoot Me an [Email](mailto:jaikpatel2001@gmail.com)
 
 Let's connect and build something amazing! 🚀
 

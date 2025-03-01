@@ -15,7 +15,7 @@ I am **Jaivik Patel**, a Software Engineer specializing in **Node.js, NestJS, Re
 - **Security:** OAuth, JWT, Performance Optimization
 
 ## 📫 How to Reach Me
-- 👨🏻‍💻 Connect with me on [LinkedIn](www.linkedin.com/in/jaivik-patel-8520101a1)
+- 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaivik-patel-8520101a1)
 - ✨ Follow me on [GitHub](https://github.com/jaivik001)
 - 💌 Shoot Me an [Email](jaikpatel2001@gmail.com)
 

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am **Jaivik Patel**, a Software Engineer specializing in **Node.js, NestJS, React, and Cloud Technologies** from 🇮🇳, passionate about developing scalable and production-ready applications. 🚀
+I am **Jaivik Patel**, a Software Engineer specializing in **Node.js, NestJS, React, and Cloud Technologies** from [🇮🇳](https://en.wikipedia.org/wiki/India), passionate about developing scalable and production-ready applications. 🚀
 
 ## 🏆 About Me
 - **3+ years of experience** in Full stack development, API design, DevOps, and cloud platforms.

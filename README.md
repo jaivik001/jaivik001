@@ -5,7 +5,7 @@ I am **Jaivik Patel**, a Software Engineer specializing in **Node.js, NestJS, Re
 🌱 I’m currently learning Python, AI/ML and Generative AI
 
 ## 🏆 About Me
-- **3+ years of experience** in Full stack development, API design, DevOps, and cloud platforms.
+- **4+ years of experience** in Full stack development, API design, DevOps, and cloud platforms.
 - Passionate about **performance optimization**, **security**, and **scalability**.
 - Enjoys collaborating with cross-functional teams to build innovative solutions.
 
